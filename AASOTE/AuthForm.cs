@@ -84,6 +84,7 @@ namespace AASOTE
         private void label3_Click(object sender, EventArgs e)
         {
             int x;
+	    string xxx;
             this.Close();
         }
     }
